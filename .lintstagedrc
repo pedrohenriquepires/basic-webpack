@@ -1,0 +1,6 @@
+{
+  "{*.js,src/**/*.js,src/**/*.html,src/**/*.scss}": [
+    "npm run prettier",
+    "git add"
+  ]
+}
