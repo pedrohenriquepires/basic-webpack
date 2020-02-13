@@ -9,5 +9,5 @@ module.exports = {
   build: resolveApp('./build'),
   appSrc: resolveApp('./src'),
   appTemplate: resolveApp('./src/index.html'),
-  appEntry: resolveApp('./src/srcipts/index.js')
+  appEntry: resolveApp('./src/scripts/index.js')
 }
